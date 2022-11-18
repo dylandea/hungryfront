@@ -77,3 +77,4 @@ web-build/
 
 env.js
 package-lock.json
+eas.json
