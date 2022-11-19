@@ -24,10 +24,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/logo.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.tredfrty.hungrybook"
     },
     "web": {
       "favicon": "./assets/logo.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6f457815-e4ab-4b17-a965-637c6bc42070"
+      }
     }
   }
 }
